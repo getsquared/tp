@@ -118,6 +118,8 @@
         "deleting-a-client-delete": "Deleting a client : delete",
         "updating-last-met-met": "Updating last met : met",
         "scheduling-appointments-schedule": "Scheduling appointments : schedule",
+        "adding-a-policy-addpolicy": "Adding a policy : addpolicy",
+        "deleting-a-policy-deletepolicy": "Deleting a policy : deletepolicy",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
