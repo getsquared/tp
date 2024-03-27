@@ -50,6 +50,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "add-policy-feature": "Add policy feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -113,7 +114,7 @@
         "quick-start": "Quick start",
         "installation-instructions": "Installation instructions",
         "starting-up-clientcare": "Starting up ClientCare",
-        "getting-familiar-with-clientcare-s-display": "Getting familiar with ClientCare's display",
+        "getting-familiar-with-clientcare": "Getting familiar with ClientCare",
         "clientcare-commands": "ClientCare Commands",
         "quick-tutorial": "Quick Tutorial",
         "features": "Features",
@@ -138,7 +139,7 @@
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
         "faq": "FAQ",
-        "known-issues": "Known issues",
+        "known-issues-and-troubleshooting": "Known issues and Troubleshooting",
         "command-summary": "Command summary"
       },
       "headingKeywords": {}
