@@ -52,6 +52,7 @@
         "implementation": "Implementation",
         "updating-last-met-feature": "Updating last met feature",
         "add-policy-feature": "Add policy feature",
+        "view-client-feature": "View Client feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
