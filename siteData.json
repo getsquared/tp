@@ -50,9 +50,15 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
-        "updating-last-met-feature": "Updating last met feature",
-        "add-policy-feature": "Add policy feature",
         "view-client-feature": "View Client feature",
+        "adding-notes-to-client-feature": "Adding notes to client feature",
+        "sorting-clients-feature": "Sorting clients feature",
+        "updating-last-met-feature": "Updating last met feature",
+        "setting-last-met-overdue-duration-feature": "Setting last met overdue duration feature",
+        "adding-schedule-feature": "Adding schedule feature",
+        "marking-schedule-feature": "Marking schedule feature",
+        "add-policy-feature": "Add policy feature",
+        "deleting-policy-feature": "Deleting policy feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -65,7 +71,9 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements",
+        "appendix-effort": "Appendix: Effort"
       },
       "headingKeywords": {}
     },
