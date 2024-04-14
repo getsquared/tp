@@ -50,7 +50,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
-        "view-client-feature": "View Client feature",
+        "viewing-client-feature": "Viewing client feature",
         "adding-notes-to-client-feature": "Adding notes to client feature",
         "sorting-clients-feature": "Sorting clients feature",
         "updating-last-met-feature": "Updating last met feature",
